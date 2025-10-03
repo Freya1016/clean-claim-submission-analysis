@@ -1,4 +1,3 @@
-# clean-claim-submission-analysis
 # Clean Claim Submission Analysis (Healthcare Billing Project)
 
 ## 📌 Project Overview
