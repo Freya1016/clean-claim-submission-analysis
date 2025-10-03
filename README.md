@@ -26,7 +26,7 @@ The goal was to demonstrate how **data validation and correction** improves the 
 | Improvement in Clean Claim Rate| –        | +83.3%  |
 
 <p align="center">
-  <img src="dashboard/summary_chart.png" alt="Clean Claims Before vs After" width="500">
+  <img src="dashboard/Picture6.png" alt="Clean Claims Before vs After" width="500">
 </p>
 
 ---
@@ -39,7 +39,7 @@ The goal was to demonstrate how **data validation and correction** improves the 
 - Missing required modifiers  
 
 <p align="center">
-  <img src="dashboard/error_analysis_chart.png" alt="Top Claim Error Reasons" width="500">
+  <img src="dashboard/Picture7.png" alt="Top Claim Error Reasons" width="500">
 </p>
 
 ---
